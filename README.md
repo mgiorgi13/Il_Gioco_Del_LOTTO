@@ -6,7 +6,7 @@ This is a client-server application written in C that simulates the game of lott
 
 To install the Lotto Game Application, clone the repository:
 
-`git clone https://github.com/mgiorgi13/LottoGame.git`
+`git clone https://github.com/mgiorgi13/Il_Gioco_Del_LOTTO.git`
 
 Navigate to the project directory and run the Makefile:
 
